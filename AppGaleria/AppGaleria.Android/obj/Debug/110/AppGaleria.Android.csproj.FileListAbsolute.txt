@@ -33,7 +33,6 @@ E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\R.txt
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\R.cs.flag
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\AppGaleria.Android.csproj.CoreCompileInputs.cache
-E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\AppGaleria.Android.csproj.CopyComplete
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\AppGaleria.Android.dll
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\AppGaleria.Android.pdb
 E:\Users\Junior\workspace\AppGaleria\AppGaleria\AppGaleria.Android\obj\Debug\110\android\bin\br.com.elinaldojr.appgaleria.apk
